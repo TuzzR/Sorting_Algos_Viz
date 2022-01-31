@@ -3,5 +3,5 @@ A basic visualizer to understand the working of sorting techniques in python wit
 
 Just run the sortingAlgs.py
 
-For adding more algorithms, just import the algorinth file in sortingAlgs.py and add the addition in the ComboBox "menu"
+For adding more algorithms, just import the algorinth file in sortingAlgs.py and add the additions in the ComboBox "menu"
 -> finally update the StartAlgorithm()
